@@ -1,0 +1,9 @@
+body{
+    background-color:#d6d6d6
+}
+pre .span-php{
+    color: #B40404;
+}
+pre .span-lit{
+    color: #FF8000;
+}
