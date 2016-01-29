@@ -1,10 +1,13 @@
 # CodeFlash - Jquery Plugin
-  Jquery Plugin to highlight/styling  *snippet code*.
+  Jquery Plugin to highlight  *snippet code*.
   
 ### Dependencies
- * https://jquery.com/ 
+ * https://jquery.com/
+ 
 ### How to use
- * Download, include Js and css file.
+ * Download files from github.
+ * Include Js and css file in your web page.
+ * Write code snippet inside *<pre>* or any other tag.
 
 ### Example usage
 <link rel="stylesheet" type="text/css" href="css/codeflash.css">
@@ -12,7 +15,8 @@
 
     $(document).ready(function(){
        $('pre').codeflash({
-           color:'red',
            languages:['php']
        });
     });
+
+This will flash /Highlight all code snippet inside *<pre>* tag
