@@ -7,7 +7,7 @@
 ### How to use
  * Download files from github.
  * Include Js and css file in your web page.
- * Write code snippet inside *&gt;pre&lt;* or any other tag.
+ * Write code snippet inside *&lt;pre&gt;* or any other tag.
 
 ### Example usage
 <link rel="stylesheet" type="text/css" href="css/codeflash.css">
@@ -19,4 +19,4 @@
        });
     });
 
-This will flash /Highlight  code snippet inside all *&gt;pre&lt;* tags
+This will flash /Highlight  code snippet inside all *&lt;pre&gt;* tags
